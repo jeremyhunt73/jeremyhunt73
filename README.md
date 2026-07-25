@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT support Projects:</h2>
 
-- <b>Virtualbox and Server 2016 installation</b>
+- <b>VirtualBox and Windows Server 2016 installation</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Active directory installation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
