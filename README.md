@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy! <br/><a href="">IT support technician</a>, <a href="">Cybersecurity analyst</a>  
+<h1>Hi, I'm Jeremy! <br/><a >IT support technician</a>, <a >Cybersecurity analyst</a>  
 
 <h2>👨‍💻 IT support Projects:</h2>
 
