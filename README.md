@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/joshmadakor1">IT support technician</a>, <a href="">Cybersecurity analyst</a>  
+<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/jeremyhunt73">IT support technician</a>, <a href="https://github.com/jeremyhunt73">Cybersecurity analyst</a>  
 
 <h2>👨‍💻 IT support Projects:</h2>
 
