@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT support Projects:</h2>
 
 - <b>VirtualBox and Windows Server 2016 installation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Lab 1](https://github.com/jeremyhunt73/VirtualBoxInstallation)
 - <b>Active directory installation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Account creation, guest additions and CMD commands</b>
