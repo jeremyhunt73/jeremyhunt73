@@ -5,7 +5,7 @@
 - <b>VirtualBox and Windows Server 2016 installation</b>
   - [Lab 1](https://github.com/jeremyhunt73/VirtualBoxInstallation)
 - <b>Active directory installation</b>
-  - [Lab 2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Lab 2](https://github.com/jeremyhunt73/Renamining-server-2016-and-installing-active-directory) <b><i></b></i>
 - <b>Account creation, guest additions and CMD commands</b>
   - [Lab 3](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Windows 11 installation and joining machine to domain</b>
