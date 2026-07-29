@@ -6,7 +6,7 @@
   - [Lab 1](https://github.com/jeremyhunt73/VirtualBoxInstallation)
 - <b>Renaming Server 2016 and Active directory installation</b>
   - [Lab 2](https://github.com/jeremyhunt73/Renamining-server-2016-and-installing-active-directory) <b><i></b></i>
-- <b>Account creation, guest additions and CMD commands</b>
+- <b>Account creation and CMD commands</b>
   - [Lab 3](https://github.com/jeremyhunt73/AccountCreation-Guest-Additions-and-CMDCommands)
 - <b>Windows 11 installation and joining machine to domain</b>
   - [Lab 4](https://github.com/joshmadakor1/EncrypterPOC)
