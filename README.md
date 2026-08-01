@@ -17,7 +17,7 @@ Hi, I'm Jeremy, a Computer Science student interested in IT Support and Cybersec
 - <b>Renaming Server 2016 and Active directory installation</b>
   - [Lab 2 - Deploying Active Directory Domain Services](https://github.com/jeremyhunt73/Renamining-server-2016-and-installing-active-directory) <b><i></b></i>
 - <b>Account creation and CMD commands</b>
-  - [Lab 3 _ Domain User Management](https://github.com/jeremyhunt73/AccountCreation-Guest-Additions-and-CMDCommands)
+  - [Lab 3 - Domain User Management](https://github.com/jeremyhunt73/AccountCreation-Guest-Additions-and-CMDCommands)
 - <b>Windows 11 installation and joining machine to domain</b>
   - [Lab 4 - Domain Joining and Client Computer Management]()
 - <b>Locking account, group and password policy</b>
