@@ -9,11 +9,11 @@
 - <b>Account creation and CMD commands</b>
   - [Lab 3](https://github.com/jeremyhunt73/AccountCreation-Guest-Additions-and-CMDCommands)
 - <b>Windows 11 installation and joining machine to domain</b>
-  - [Lab 4](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Lab 4]()
 - <b>Locking account, group and password policy</b>
-  - [Lab 5](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Lab 5]()
 - <b>Patch management, reports and audit documentation using Action1</b>
-  - [Lab 6](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Lab 6]()
 
 <h2> 🖥️ Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/jeremy-hunt-720575310
