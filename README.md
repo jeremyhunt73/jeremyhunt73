@@ -1,5 +1,15 @@
-<h1>Hi, I'm Jeremy! <br/><a >IT support technician</a>, <a >Cybersecurity analyst</a>  
+Hi, I'm Jeremy, a Computer Science student interested in IT Support and Cybersecurity. This portfolio documents my hands-on home lab projects focused on Windows Server, Active Directory, troubleshooting, virtualization, and enterprise IT administration.
+## Skills ✔️
 
+- Windows Server
+- Active Directory
+- VirtualBox
+- Windows 11
+- DNS
+- DHCP
+- Group Policy
+- PowerShell (Learning)
+- Patch Management
 <h2>👨‍💻 IT support Projects:</h2>
 
 - <b>VirtualBox and Windows Server 2016 installation</b>
