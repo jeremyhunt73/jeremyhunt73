@@ -21,7 +21,7 @@ Hi, I'm Jeremy, a Computer Science student interested in IT Support and Cybersec
 - <b>Windows 11 installation and joining machine to domain</b>
   - [Lab 4 - Domain Joining and Client Computer Management](https://github.com/jeremyhunt73/Windows11-installation-and-joining-machine-to-domain)
 - <b>Locking account, group and password policy</b>
-  - [Lab 5 - Group Policy Configuration and Administration]()
+  - [Lab 5 - Group Policy Configuration and Administration] (https://github.com/jeremyhunt73/Locked_account_group_and_password_policy)
 - <b>Patch management, reports and audit documentation using Action1</b>
   - [Lab 6 - Patch Management with Action1]()
 
