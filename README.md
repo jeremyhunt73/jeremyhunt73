@@ -1,4 +1,4 @@
-Hi, I'm Jeremy, a Computer Science student interested in IT Support and Cybersecurity. This portfolio documents my hands-on home lab projects focused on Windows Server, Active Directory, troubleshooting, virtualization, and enterprise IT administration.
+Hi, I'm Jeremy, a Cybersecurity graduate and Computer Science student interested in IT Support and Cybersecurity. This portfolio documents my hands-on home lab projects focused on Windows Server, Active Directory, troubleshooting, virtualization, and enterprise IT administration.
 ## Skills ✔️
 
 - Windows Server
