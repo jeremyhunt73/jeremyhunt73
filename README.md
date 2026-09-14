@@ -10,7 +10,7 @@ Hi, I'm Jeremy, a Cybersecurity graduate and Computer Science student interested
 - Group Policy
 - PowerShell (Learning)
 - Patch Management
-<h2>👨‍💻 IT support Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>VirtualBox and Windows Server 2016 installation</b>
   - [Lab 1 - Building a Virtualized IT Environment](https://github.com/jeremyhunt73/VirtualBoxInstallation)
