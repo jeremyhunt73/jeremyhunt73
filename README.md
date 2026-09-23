@@ -26,7 +26,7 @@ Hi, I'm Jeremy, a Cybersecurity graduate and Computer Science student interested
   - [Patch Management with Action1](https://github.com/jeremyhunt73/Action1_patch_management)
 
 <h2> 🖥️ Connect with me:</h2>
-[linkedin]: www.linkedin.com/in/jeremy-hunt-720575310
+[LinkedIN]: www.linkedin.com/in/jeremy-hunt-720575310
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
