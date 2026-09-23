@@ -13,17 +13,17 @@ Hi, I'm Jeremy, a Cybersecurity graduate and Computer Science student interested
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>VirtualBox and Windows Server 2016 installation</b>
-  - [Lab 1 - Building a Virtualized IT Environment](https://github.com/jeremyhunt73/VirtualBoxInstallation)
+  - [Building a Virtualized IT Environment](https://github.com/jeremyhunt73/VirtualBoxInstallation)
 - <b>Renaming Server 2016 and Active directory installation</b>
-  - [Lab 2 - Deploying Active Directory Domain Services](https://github.com/jeremyhunt73/Renamining-server-2016-and-installing-active-directory) <b><i></b></i>
+  - [Deploying Active Directory Domain Services](https://github.com/jeremyhunt73/Renamining-server-2016-and-installing-active-directory) <b><i></b></i>
 - <b>Account creation and CMD commands</b>
-  - [Lab 3 - Domain User Management](https://github.com/jeremyhunt73/AccountCreation-Guest-Additions-and-CMDCommands)
+  - [Domain User Management](https://github.com/jeremyhunt73/AccountCreation-Guest-Additions-and-CMDCommands)
 - <b>Windows 11 installation and joining machine to domain</b>
-  - [Lab 4 - Domain Joining and Client Computer Management](https://github.com/jeremyhunt73/Windows11-installation-and-joining-machine-to-domain)
+  - [Domain Joining and Client Computer Management](https://github.com/jeremyhunt73/Windows11-installation-and-joining-machine-to-domain)
 - <b>Locking account, group and password policy</b>
-  - [Lab 5 - Group Policy Configuration and Administration](https://github.com/jeremyhunt73/Locked_account_group_and_password_policy)
+  - [Group Policy Configuration and Administration](https://github.com/jeremyhunt73/Locked_account_group_and_password_policy)
 - <b>Patch management, reports and audit documentation using Action1</b>
-  - [Lab 6 - Patch Management with Action1](https://github.com/jeremyhunt73/Action1_patch_management)
+  - [Patch Management with Action1](https://github.com/jeremyhunt73/Action1_patch_management)
 
 <h2> 🖥️ Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/jeremy-hunt-720575310
